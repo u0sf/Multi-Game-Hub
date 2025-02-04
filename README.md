@@ -39,7 +39,7 @@ This project is a multi-game device powered by an ESP32 microcontroller and an O
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YoussefRadwan/Multi-Game-Device.git
+   git clone https://github.com/u0sf/Multi-Game-Hub.git
    ```
 2. Open the `.ino` file using Arduino IDE.
 3. Select the correct board (ESP32) and port.
